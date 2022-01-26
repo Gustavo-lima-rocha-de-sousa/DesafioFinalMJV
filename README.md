@@ -17,7 +17,7 @@ Bem-vindos desafio final do <img  align="center" alt="html5" src="https://img.sh
 
   Com todo conhecimento passado em sala de aula e o template disponibilizado pelo professor o Crud foi ralizado de forma MVC: Front Controller, Controller, Model, View, Web.
   
-  Todo conhecimento absorvido foi utilizado dentro desse projeto, desde criação de classes e interfaçes a mapeamento de funções, o CRUD solicitado consistem em criação e buscar   de forma que o back-end se comunique com o font-end, agradeço ao Gleysson pelo conhecimento passado e ter dado um UP no conhecimento sobre JPA, Spring e Thymeleaf.
+  Todo conhecimento absorvido foi utilizado dentro desse projeto, desde criação de classes e interfaçes a mapeamento de funções, o CRUD solicitado consistem em criação e buscar   de forma que o back-end se comunique com o font-end, agradeço ao Gleyson pelo conhecimento passado e ter dado um UP no conhecimento sobre JPA, Spring e Thymeleaf.
   
   Agradeço a MJV pelo incentivo dando cursos maravilhosos de forma totalmente gratuita e riquissimo de conhecimento. 
   
