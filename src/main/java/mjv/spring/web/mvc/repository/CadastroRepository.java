@@ -15,7 +15,7 @@ import mjv.spring.web.mvc.model.Profissao;
 @Transactional
 public interface CadastroRepository extends JpaRepository<Cadastro, Integer> {
 	
-	@Query("select p from Profissao p where p.nome like %?1% ")
+	@Query("select p from Profissao p where p.nome like %?1%")
     public List<Profissao> findProfissaoByName(String nome);
 
     
