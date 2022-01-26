@@ -267,14 +267,15 @@
 			</ul>
 		</div>
 	</section>
-	<!-- Buscar -->
-			<form action= "pesquisar" method="GET">
+			<!-- Buscar -->
+			<form id="contactForm" action= "/pesquisar" method="GET" th:object="${cadastro}"data-sb-form-api-token="API_TOKEN">
 			 <section class="page-section" id="pesquisar">
-			<label> Pesquisa por profissão:</label>
-			<input name= "nomepesquisa">
+			 <label> Pesquisa por profissão:</label>
+			<input  name= "nomepesquisa">
 			<input class="btn btn-primary btn-xl text-uppercase" type="submit" value"Buscar">
 	      </section>
 	     </form> 
+						
 	      
 	
 	<!-- Team-->

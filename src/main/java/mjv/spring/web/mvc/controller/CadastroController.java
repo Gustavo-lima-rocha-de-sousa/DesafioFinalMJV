@@ -63,8 +63,8 @@ public class CadastroController {
     @GetMapping("/pesquisar")
     public ModelAndView pesquisar(@RequestParam ("nomepesquisa") String nomepesquisa) {
     	ModelAndView mv2 = new ModelAndView("index");
-    	mv2.addObject("c.profissao.nome",repository2.findProfissaoByName(nomepesquisa));
-    	mv2.addObject("profissoes", new Cadastro());
+    	mv2.addObject("profissoes",repository2.findProfissaoByName(nomepesquisa));
+    	mv2.addObject("cadastro", new Cadastro());
     	return mv2;    	
     }
     
