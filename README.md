@@ -21,6 +21,8 @@ Bem-vindos desafio final do <img  align="center" alt="html5" src="https://img.sh
   
   Agradeço a MJV pelo incentivo dando cursos maravilhosos de forma totalmente gratuita e riquissimo de conhecimento. 
   
+     OBS: Todo o processo do Back-End se encontra nesse repositório, as ilustrações são somente do Front-end para te deixar mais curioso para analisar o CRUD.   
+  
   Dessa forma, realizei a alteração no template deixando o mesmo conforme as ilustrações abaixo;
   
   ## *Início:*
