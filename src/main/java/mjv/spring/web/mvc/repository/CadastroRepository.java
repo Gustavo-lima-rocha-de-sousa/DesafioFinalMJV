@@ -18,6 +18,5 @@ public interface CadastroRepository extends JpaRepository<Cadastro, Integer> {
 	@Query("select p from Profissao p where p.nome like %?1%")
     public List<Profissao> findProfissaoByName(String nome);
 
-    
 }
 	
